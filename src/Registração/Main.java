@@ -7,10 +7,6 @@ public class Main {
         r.Init();
         r.Show();
 
-        /*int jooj = 4;
-        RegistroArray rA = new RegistroArray(jooj);
-        rA.start();
-        rA.showData();*/
 
     }
 }
